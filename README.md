@@ -3,7 +3,7 @@
 擁有三年金融產業經驗，後續參加了資展國際的540小時前端工程師培訓，專注於使用 JavaScript 與 ReactJS 框架進行開發，熱衷於前後端技術整合。具多人協作之經驗，以好維護且優質的使用者體驗做為首要開發目標，希望在前端工程師的角色中發揮我的專業知識和學習成果。
 
 📍 **新北市, 台灣**  
-📧 **[方格子](#)**
+📧 **[方格子](https://vocus.cc/salon/666faabffd897800010a73bf)**
 
 ## Skills
 
@@ -69,7 +69,7 @@
 - **前端:** CSS、Bootstrap、JavaScript 
 - **後端及資料庫:** PHP、MySQL
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/bearlong/mahjong)
 
 ![image](https://github.com/user-attachments/assets/e3ca1cf7-5bda-46d0-91a5-d3b31f13542e)
 
@@ -79,7 +79,7 @@
 **技術堆栈:**
 - **前端:** CSS、JavaScript、jQuery
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/bearlong/shootgame)
 
 ## Work Experience
 
