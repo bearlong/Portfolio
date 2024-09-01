@@ -50,7 +50,7 @@
 - **後端及資料庫:** Express.js (with Node.js)、MySQL
 - **套件:** Chart.js、Swiper.js、WebSocket
 
-[GitHub Repository](#)
+[GitHub](https://github.com/bearlong/EastWind)
 
 ![後台](https://github.com/user-attachments/assets/6fac801a-ba5d-44cd-8bdd-c5a00793f807)
 
