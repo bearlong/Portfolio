@@ -139,5 +139,6 @@
 我期待在前端工程師的職位中，運用所學技能和過往經驗，為公司提供卓越的使用者體驗。我相信憑藉我的人際溝通、需求分析與技術專長，我能為團隊帶來實質的貢獻。
 
 ## 附件
-![75636EC8-1E9D-46E1-BF3E-D5EB1058475E](https://github.com/user-attachments/assets/9dcdcee1-6caf-4ece-9a2d-e0d8f1cda3d2)
+![123](https://github.com/user-attachments/assets/1ddd8d7d-1dcf-4772-846b-2fadc7087014)
+
 [資展國際結訓專題](https://youtu.be/rM5RjhIqVtU)
