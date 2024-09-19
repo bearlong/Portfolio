@@ -51,6 +51,7 @@
 - **套件:** Chart.js、Swiper.js、WebSocket
 
 [GitHub](https://github.com/bearlong/EastWind)
+[Medium](https://reurl.cc/eypOvQ)
 
 ![後台](https://github.com/user-attachments/assets/6fac801a-ba5d-44cd-8bdd-c5a00793f807)
 
@@ -136,3 +137,7 @@
 ### 對未來的展望
 
 我期待在前端工程師的職位中，運用所學技能和過往經驗，為公司提供卓越的使用者體驗。我相信憑藉我的人際溝通、需求分析與技術專長，我能為團隊帶來實質的貢獻。
+
+## 附件
+![75636EC8-1E9D-46E1-BF3E-D5EB1058475E](https://github.com/user-attachments/assets/9dcdcee1-6caf-4ece-9a2d-e0d8f1cda3d2)
+[資展國際結訓專題](https://youtu.be/rM5RjhIqVtU)
