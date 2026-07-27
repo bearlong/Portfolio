@@ -43,12 +43,12 @@
 
 ## Projects
 
-![PB1](image.png)
-![PB2](image-1.png)
-
 ### Enterprise Management System (Public Demo)
 
 以實際企業專案為基礎重新設計的公開展示版本，採前後端分離架構，完整涵蓋 RFQ、Instrument Calibration、Equipment Repair、Workflow 等企業管理情境，並保留企業系統核心流程，同時完成去識別化與 Mock Data 重構，展示完整的全端開發能力。
+
+![PB1](image.png)
+![PB2](image-1.png)
 
 **Key Features**
 
@@ -88,15 +88,17 @@
 > Password: `1234`
 
 🔗 **Frontend GitHub:** [Github](https://github.com/bearlong/PlanBear-Frontend)
-🔗 **Backend GitHub:** [GitHub](https://github.com/bearlong/PlanBear-Backend)
-🔗 **Medium:** [Enterprise Management System](https://reurl.cc/dOxKy6)
 
-![只欠東風2](https://github.com/user-attachments/assets/efa4d8c0-720c-471b-af0e-3aa58aab9d23)
-![只欠東風3](https://github.com/user-attachments/assets/aefe9f2f-51e9-442b-bb95-4e10e736f6c4)
+🔗 **Backend GitHub:** [GitHub](https://github.com/bearlong/PlanBear-Backend)
+
+🔗 **Medium:** [Enterprise Management System](https://reurl.cc/dOxKy6)
 
 ### 只欠東風麻將桌遊電商平台
 
 四人協作開發的麻將桌遊電商平台，使用 React、Next.js、Node.js、Express 與 MySQL 建置商品、購物車、付款、訂單、客服及數據分析等功能。
+
+![只欠東風2](https://github.com/user-attachments/assets/efa4d8c0-720c-471b-af0e-3aa58aab9d23)
+![只欠東風3](https://github.com/user-attachments/assets/aefe9f2f-51e9-442b-bb95-4e10e736f6c4)
 
 **我負責的頁面:**
 
@@ -125,11 +127,11 @@
 [GitHub](https://github.com/bearlong/EastWind)
 [Medium](https://reurl.cc/eypOvQ)
 
-![後台](https://github.com/user-attachments/assets/6fac801a-ba5d-44cd-8bdd-c5a00793f807)
-
 ### 只欠東風麻將桌遊專題 - 後台網站
 
 六人協作開發的電商後台管理系統，使用 PHP、MySQL、JavaScript 與 Bootstrap，提供商品新增、修改、上下架及狀態管理功能。
+
+![後台](https://github.com/user-attachments/assets/6fac801a-ba5d-44cd-8bdd-c5a00793f807)
 
 **我主要負責的項目:**
 
@@ -144,11 +146,11 @@
 
 [GitHub Repository](https://github.com/bearlong/mahjong)
 
-![image](https://github.com/user-attachments/assets/e3ca1cf7-5bda-46d0-91a5-d3b31f13542e)
-
 ### jQuery 飛機射擊小遊戲
 
 使用 HTML、JavaScript 與 jQuery 製作的小型 Side Project，練習鍵盤事件、碰撞判定及遊戲迴圈。
+
+![image](https://github.com/user-attachments/assets/e3ca1cf7-5bda-46d0-91a5-d3b31f13542e)
 
 **技術堆栈:**
 
